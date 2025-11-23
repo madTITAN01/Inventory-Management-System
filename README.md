@@ -1,7 +1,7 @@
 ## 📦 Inventory Management System (Java 21 + MySQL + JDBC)
 
 A simple yet scalable **console-based Inventory Management System** built using **Java 21**, **JDBC**, and **MySQL**.  
-The project demonstrates backend logic, CRUD operations, persistence, exception handling, and basic database interaction — making it ideal for learning and portfolio demonstration.
+The project demonstrates backend logic, CRUD operations, persistence, exception handling, and basic database interaction.
 
 ---
 
